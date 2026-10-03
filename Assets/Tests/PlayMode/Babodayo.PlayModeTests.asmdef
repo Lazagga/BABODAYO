@@ -1,0 +1,5 @@
+{
+    "name": "Babodayo.PlayModeTests",
+    "references": ["Babodayo.Runtime","Unity.InputSystem","Unity.InputSystem.TestFramework"],
+    "optionalUnityReferences": ["TestAssemblies"]
+}

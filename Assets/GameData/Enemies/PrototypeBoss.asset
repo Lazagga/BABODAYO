@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54101584ce4535649b6969775e0439f1, type: 3}
+  m_Name: PrototypeBoss
+  m_EditorClassIdentifier: Babodayo.Runtime::Babodayo.Enemy.EnemyData
+  HP: 450
+  Reactions: {fileID: 11400000, guid: 489d53bebdd0f004f91b61793585d35c, type: 2}
+  AI: 1
+  Boss: 1
+  AggroRange: 8
+  MoveSpeed: 2
+  AttackRange: 3
+  IdleFrames: 35
+  Attacks:
+  - {fileID: 11400000, guid: 2d1e491dccb73244a8238971fe745a37, type: 2}
+  - {fileID: 11400000, guid: d87f563c4b8f3724bb7946ecb70589f2, type: 2}
+  - {fileID: 11400000, guid: 10371bc49a0174a4587f03725bc12955, type: 2}
+  Gravity: 30
+  AutoHealFrames: 0
+  KnockdownFrames: 20

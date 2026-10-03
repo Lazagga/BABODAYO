@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18f604550f08974f974c618924ed3da, type: 3}
+  m_Name: PlayerLoadout
+  m_EditorClassIdentifier: Babodayo.Runtime::Babodayo.Player.PlayerAttackLoadout
+  GroundCombo:
+  - {fileID: 11400000, guid: 94d05418d29d3204d8c19bfdf4e82834, type: 2}
+  - {fileID: 11400000, guid: 7da4cdf204ac1b642b03cbf259a3f609, type: 2}
+  - {fileID: 11400000, guid: dcc10953a08c7ea4da94046b3df534c4, type: 2}
+  AirCombo:
+  - {fileID: 11400000, guid: 4b9cb9c5d1914044ca523c1791bb5167, type: 2}
+  - {fileID: 11400000, guid: 7c79fdc4a97688b4d8ad6947a21c76eb, type: 2}
+  - {fileID: 11400000, guid: 361428f42c8b60a408b12a8830184b1f, type: 2}
+  Heavy: {fileID: 11400000, guid: 3a7836e4cc19ebb409a555f7344b472a, type: 2}
+  Launcher: {fileID: 11400000, guid: c9cdf7caa2ed8314484f069d27ea5514, type: 2}
+  Dive: {fileID: 11400000, guid: 2220e421f6ccc4d45a98c4b527228065, type: 2}
+  GroundShot: {fileID: 11400000, guid: 78c35fcb4b6137e4eb4a38357bf13ff0, type: 2}
+  AirShot: {fileID: 11400000, guid: 1f7cdb8e1a2e8714cb81775059471cd9, type: 2}
+  RisingLauncher: {fileID: 11400000, guid: 928540c50dd0c414aac7170bc2971459, type: 2}
+  Rush: {fileID: 11400000, guid: 31430d53c925247458bf2027b0e51242, type: 2}
+  UpThrust: {fileID: 11400000, guid: 28e078afd890bf845a0429c43113062d, type: 2}
+  DashAttack: {fileID: 11400000, guid: 5664a567a199e1f429cd0570de346cd9, type: 2}
+  DiagonalDive: {fileID: 11400000, guid: 8479669f8e2d6e94f996748b2b07670d, type: 2}
+  AirPierce: {fileID: 11400000, guid: 8331df00303e2e941a66d595284a8f88, type: 2}

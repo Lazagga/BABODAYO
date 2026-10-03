@@ -1,0 +1,6 @@
+{
+    "name": "Babodayo.EditModeTests",
+    "references": ["Babodayo.Runtime", "Unity.InputSystem", "Unity.InputSystem.TestFramework"],
+    "includePlatforms": ["Editor"],
+    "optionalUnityReferences": ["TestAssemblies"]
+}

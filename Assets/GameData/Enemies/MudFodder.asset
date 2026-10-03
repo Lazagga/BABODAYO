@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54101584ce4535649b6969775e0439f1, type: 3}
+  m_Name: MudFodder
+  m_EditorClassIdentifier: Babodayo.Runtime::Babodayo.Enemy.EnemyData
+  HP: 55
+  Reactions: {fileID: 11400000, guid: e9fe1b6480acae545b888dd0c55b24f3, type: 2}
+  AI: 1
+  Boss: 0
+  AggroRange: 8
+  MoveSpeed: 1.8
+  AttackRange: 2.5
+  IdleFrames: 45
+  Attacks:
+  - {fileID: 11400000, guid: ba9211267a9704a42903e8fb1512b961, type: 2}
+  Gravity: 30
+  AutoHealFrames: 0
+  KnockdownFrames: 20

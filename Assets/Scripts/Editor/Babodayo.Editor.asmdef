@@ -1,0 +1,6 @@
+{
+    "name": "Babodayo.Editor",
+    "rootNamespace": "Babodayo.Editor",
+    "references": ["Babodayo.Runtime"],
+    "includePlatforms": ["Editor"]
+}
